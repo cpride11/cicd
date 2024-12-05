@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "COURTNEY",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus5.actions.githubusercontent.com/UbSil5K9nwIkmrDtea9xDxaO4Z8iUNuIqax2G4MdQyCo5ql8y3/",
+  "gitHubUrl": "https://github.com/cpride11/cicd",
+  "workFolder": "_work"
+}
